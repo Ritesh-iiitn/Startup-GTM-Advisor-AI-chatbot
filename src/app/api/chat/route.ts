@@ -1,7 +1,8 @@
+
 import { groq } from "@ai-sdk/groq"
 import { streamText, convertToModelMessages } from "ai"
 import { systemPrompt } from "@/lib/system-prompt"
-
+export const runtime = "nodejs"
 export const maxDuration = 30
 
 export async function POST(req: Request) {
