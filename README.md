@@ -7,11 +7,6 @@ This project was built as part of a software engineering assignment for Thinkly 
 
 ---
 
-## 🚀 Live Demo
-(Deploy link will be added here after Vercel deployment)
-
----
-
 ## 🎯 Problem Statement
 
 Early-stage founders often struggle with:
